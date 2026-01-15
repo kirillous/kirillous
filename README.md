@@ -17,7 +17,7 @@ I’m a passionate Statistics student with a strong interest in machine learning
 
 ## Key Projects 📚
 
-- **[YandexMusic Algorithm Analysis](https://github.com/kirillous/YAMBDA-algorithm-analysis):** Evaluation of YandexMusic’s recommendation system using propensity scores to estimate short-term effects on user experience from 50M events listening data.
+- **[Yandex Music Algorithm Analysis](https://github.com/kirillous/YAMBDA-algorithm-analysis):** Evaluation of YandexMusic’s recommendation system using propensity scores to estimate short-term effects on user experience from 50M events listening data.
 - **[Sales Data Analysis](https://github.com/kirillous/SalesAnalysis):** End-to-end analysis of retail sales data combining pricing analysis, market basket methods, ABC classification, and machine learning to optimize inventory decisions and improve demand forecasting.
 - **[Plant Data Analysis](https://github.com/kirillous/statistical-analysis):** Exploratory and multivariate analysis of plant measurement data, revealing linear dependencies and distinct species clusters through PCA and k-means clustering.
 
