@@ -21,10 +21,14 @@ I’m a passionate Statistics student with a strong interest in machine learning
 - **[Sales Data Analysis](https://github.com/kirillous/SalesAnalysis):** End-to-end analysis of retail sales data combining pricing analysis, market basket methods, ABC classification, and machine learning to optimize inventory decisions and improve demand forecasting.
 - **[Plant Data Analysis](https://github.com/kirillous/statistical-analysis):** Exploratory and multivariate analysis of plant measurement data, revealing linear dependencies and distinct species clusters through PCA and k-means clustering.
 
+## Professional Goals 🚀
+- **Long-Term Vision:** Apply rigorous statistical reasoning and modern ML techniques to solve complex, real-world problems. I aim to continuously grow at the intersection of theory and practice.
+- **Problem-Solving Philosophy:** I value well-evaluated solutions that combine strong theoretical foundations with results that are meaningful and actionable in the context of the problem.
+- **Positive Impact:** My goal is to use data and statistical thinking to support better decision-making and create measurable value. My goal is to translate analysis into insights that have a clear, practical impact on products, users, or organizations.
 
+## Contact with Me
 
+- 📫 [Email](mailto:kirill.markin18@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kirillmarkin/)
 
-
-
-
-
+I’m excited to collaborate on data science & analytics projects where careful analysis informs real decisions. Let’s connect! 🌍
